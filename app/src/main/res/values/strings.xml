@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="linear_layout_title">LinearLayout</string>
+    <string name="constraint_layout_title">ConstraintLayout</string>
+    <string name="btn_open_linear">Открыть LinearLayout</string>
+    <string name="btn_open_constraint">Открыть ConstraintLayout</string>
+    <string name="tv_hello">Привет, мир!</string>
+    <string name="tv_counter">Счётчик: 0</string>
+    <string name="btn_increment">+1</string>
+    <string name="btn_decrement">-1</string>
+    <string name="btn_reset">Сброс</string>
+    <string name="tv_input_label">Введите текст:</string>
+    <string name="et_input">Текст...</string>
+    <string name="btn_submit">Отправить</string>
+    <string name="tv_result">Результат: —</string>
+    <string name="tv_progress_label">Прогресс:</string>
+    <string name="tv_image_desc">Иконка</string>
+    <string name="tv_checkbox_label">Чекбокс</string>
+    <string name="tv_radio_label">Радиокнопка 1</string>
+    <string name="tv_switch_label">Переключатель</string>
+</resources>
