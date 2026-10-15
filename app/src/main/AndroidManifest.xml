@@ -23,6 +23,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LinearLayoutActivity"
+            android:exported="false"
+            android:label="LinearLayout"
+            android:theme="@style/Theme.NewApp" />
+        <activity
+            android:name=".ConstraintLayoutActivity"
+            android:exported="false"
+            android:label="ConstraintLayout"
+            android:theme="@style/Theme.NewApp" />
     </application>
 
 </manifest>
